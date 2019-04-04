@@ -1,4 +1,7 @@
 # PROJETO-FifaQuiz
+
+*Feito por @RenanAbbade(Front-end) & @RafaelSanzio(Back-end).*
+
 Projeto da Faculdade feito com HTML/CSS/JAVASCRIPT/BOOTSRATP/JQUERY
 
 O Quiz contém validação do usuário (não permiti o mesmo responder nulo), verifica a quantidade de acertos, diz para o usuário a sua pontuação
